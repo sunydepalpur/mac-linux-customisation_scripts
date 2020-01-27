@@ -1,0 +1,8 @@
+1.  switch to full screen - super + up // super + down
+2. 	tmux new tab - ctrl + b --> %, "
+3. 	tmux killl all tmux - pkill -f tmux
+4. 	tmux new tab - ctrl + a -- | or -
+5. 	tmux switch tabs - alt + up, down , left, right
+6. 	tmux close tabs - ctrl + a -- x thn y
+7. 	tmux new tab - ctrl + a -- c
+8. 	tmux move tabs - ctrl + a -- n or p  
